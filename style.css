@@ -1,0 +1,33 @@
+
+.li1{background-color:aliceblue}
+.li2{background-color:orchid}
+.li3{background-color:turquoise}
+.li4{background-color:maroon}
+.li5{background-color:violet}
+
+h2 {color:aquamarine}
+
+#p1{color:indianred}
+#p2{color:royalblue}
+#p3{color:OliveDrab}
+#p4{color:bisque}
+#p5{color:darkcyan}
+    
+header{color:red;
+font-size:40px;
+font-family: fantasy;
+text-align:center;}
+
+
+
+@keyfranes pageheader{
+
+    from{color:red;}
+    to{color:SkyBlue;}
+}
+
+
+.pageheader:hover{color:SkyBlue}
+
+
+.img{align:center;}
